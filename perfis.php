@@ -149,7 +149,7 @@
                             <a href="#">Ver o que foi assistido</a>
                         </div>
                     </div>
-                    <button><a href="adicionar-perfil.php">Adicionar perfil</a></button>
+                    <a href="adicionar-perfil.php"><button class="btnPerfis">Adicionar perfil</button></a>
                 </div>
             </section>
         </article>

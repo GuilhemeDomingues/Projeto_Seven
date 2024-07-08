@@ -157,7 +157,7 @@
                         </a>
                     </div>
                     <hr class="linha__apar__conect">
-                    <button href="#">Excluir conta</button>
+                    <a href="#"><button>Excluir conta</button></a>
                 </div>
             </section>
         </article>

@@ -84,8 +84,8 @@
             <form method="post" id="formEsqueciSenha" action="email-enviado.php">
                 <input type="email" name="email" id="email" placeholder="Email" required>
                 <input type="submit" class="btn" id="btnEsqueciSenha" value="Enviar">
-                <button class="btn" href="#">Voltar</button>
             </form>
+            <a href="#"><button>Voltar</button></a>
         </article>
     </main>
 
