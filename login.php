@@ -19,7 +19,7 @@
     <main>
         <div class="form-container"></div>
         <div class = "form-opacidade">
-                <form id="cadastro" method="post" action="#">
+                <form id="cadastro" method="post" action="quemEstaAssistindo.php">
                     <h2><strong>Login</strong></h2>
                     <label>E-mail</label>
                     <input type="email" name="email" required>

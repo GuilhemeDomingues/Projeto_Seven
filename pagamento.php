@@ -19,7 +19,7 @@
     <main>
         <div class="form-opacidade"></div>
         <div class="form-container">
-            <form id="pagamento_form" method="post" action="#" onsubmit="return validarForm()">
+            <form id="pagamento_form" method="post" action="login.php" onsubmit="return validarForm()">
                 <h2><strong>Dados de Pagamento</strong></h2>
                 <label>Nome no Cartão</label>
                 <input type="text" name="nome_cartao" required>
