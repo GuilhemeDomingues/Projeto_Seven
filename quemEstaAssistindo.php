@@ -54,19 +54,19 @@
 
             <div class="interno">
                 <div class="item">
-                    <a href="#">
+                    <a href="pagina-home.php">
                         <img src="img/SenhoraPerfil.jpg" class="item" width="200" height="200" alt="perfil1"/>
                         <h3>Perfil 1</h3>
                     </a>
                 </div>
                 <div class="item">
-                    <a href="#">
+                    <a href="pagina-home.php">
                         <img src="img/JovemNegro.jpg" class="item" width="200" height="200" alt="perfil2"/>
                         <h3>Perfil 2</h3>
                     </a>
                 </div>
                 <div class="item">
-                    <a href="#">
+                    <a href="pagina-home.php">
                         <img src="img/CriançaPintada.jpg" class="item" width="200" height="200" alt="perfil3"/>
                         <h3>Perfil 3</h3>
                     </a>    
